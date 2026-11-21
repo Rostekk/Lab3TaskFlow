@@ -1,0 +1,18 @@
+# Gradle / build
+.gradle/
+build/
+.kotlin/
+
+# Android Studio
+.idea/
+*.iml
+
+# Lokalna konfiguracja (ścieżka do SDK)
+local.properties
+
+# Inne
+captures/
+.cxx/
+.externalNativeBuild/
+.DS_Store
+*.zip
